@@ -8,6 +8,7 @@
   "keywords": [],
   "author": "Matt Pocock",
   "dependencies": {
+    "@types/diff": "^5.2.1",
     "diff": "^5.1.0"
   }
 }
